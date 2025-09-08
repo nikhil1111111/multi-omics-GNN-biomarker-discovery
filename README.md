@@ -1,8 +1,14 @@
 # Multi-Omics Biomarker Discovery using Graph Neural Networks (GNNs)
 
-🚀 This project uses **multi-omics integration** (genomics, transcriptomics, proteomics) combined with **Graph Neural Networks (GNNs)** to predict disease risk and identify **novel biomarkers**.
+This project focuses on multi-omics biomarker discovery by integrating genomics, transcriptomics, and proteomics data into a graph-based framework. Using Graph Neural Networks (GNNs), it models complex biological interactions (genes–proteins–pathways) to:
 
----
+Predict disease onset and progression (e.g., renal, cardiovascular, cancer).
+
+Identify novel biomarkers that play a critical role in disease mechanisms.
+
+Enable precision medicine insights by linking omics layers into one AI-driven pipeline.
+
+Unlike traditional single-omics machine learning approaches, this project leverages heterogeneous graphs and deep learning to capture multi-level biological relationships, making it a rare and cutting-edge approach in bioinformatics.
 
 ## ✨ Key Features
 - Integrates **multi-omics data** (from GEO, TCGA, STRING DB).
